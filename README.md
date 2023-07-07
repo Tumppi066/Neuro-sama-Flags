@@ -8,7 +8,7 @@ Contains flags for Vedal987's KSP stream.
 (Alternatively place the NeuroSamaHeadquarters folder in root/GameData/)
 
 At the end your folders should look like this
-`root/GameData/NeuroSamaHeadquarters/Flags/`
+`root/GameData/NeuroSamaHeadquarters/Flags/*flags*`
 
 # Credit
 Credit to all of the flag makers can be found in the credits.txt file.
