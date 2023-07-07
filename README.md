@@ -1,6 +1,3 @@
-![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/f531552a-353d-4892-a0f8-d319aa2a3456)
-![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/83540713-8e7d-45c5-88a3-41d147ec064b)
-
 # Neuro-sama-Flags
 Contains flags for Vedal987's KSP stream.
 
@@ -12,3 +9,10 @@ Contains flags for Vedal987's KSP stream.
 
 # Credit
 Credit to all of the flag makers can be found in the credits.txt file.
+
+# Flags
+![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/6e7360fa-f938-4f8a-8569-d1be2a479ba1)
+![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/da184b39-a855-450c-b6da-87d278dc88e9)
+![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/fb58bfda-35cf-4f29-9b35-bfda318a2120)
+![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/999076dd-850c-443a-b1e2-948a83aafd9f)
+![image](https://github.com/Tumppi066/Neuro-sama-Flags/assets/83072683/3fed5f9c-12b4-4253-a6b7-86fb9da0ee2c)
