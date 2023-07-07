@@ -4,7 +4,7 @@ Contains flags for Vedal987's KSP stream.
 
 # Installation
 1. Download a zip of the repository.
-2. Open your KSP root folder.
+2. Open your KSP root folder (Steam -> Browse local files).
 3. Drop in GameData.
 
 # Credit
