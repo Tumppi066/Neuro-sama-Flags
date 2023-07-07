@@ -6,10 +6,11 @@ Contains flags for Vedal987's KSP stream.
 2. Open your KSP root folder (Steam -> Browse local files).
 3. Drop the GameData folder to the root folder.
 (Alternatively place the NeuroSamaHeadquarters folder in root/GameData/)
-4. Restart the game and start a new save.
 
 At the end your folders should look like this
 `root/GameData/NeuroSamaHeadquarters/Flags/*flags*`
+
+4. Restart the game and start a new save.
 
 # Credit
 Credit to all of the flag makers can be found in the credits.txt file.
