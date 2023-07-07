@@ -5,7 +5,8 @@ Contains flags for Vedal987's KSP stream.
 # Installation
 1. Download a zip of the repository.
 2. Open your KSP root folder (Steam -> Browse local files).
-3. Drop in GameData.
+3. Drop the GameData folder to the root folder.
+(Alternatively place the NeuroSamaHeadquarters folder in root/GameData/)
 
 # Credit
 Credit to all of the flag makers can be found in the credits.txt file.
